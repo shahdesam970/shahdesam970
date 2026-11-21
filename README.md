@@ -31,7 +31,7 @@
 | [**MIVIDA Restaurant Website**](https://github.com/shahdesam970/final-project-NTI) · [Live](https://final-project-nti-nine.vercel.app) | Responsive restaurant website in HTML, CSS and JavaScript (NTI web design training project). |
 | [**Online Store**](https://github.com/shahdesam970/Final-iti-project) | React and Redux Toolkit store with a product catalog, cart and checkout, using the DummyJSON API. |
 
-**Graduation projects:** *Skeleti-X*, an AI-powered bone fracture detection system (React.js and Tailwind CSS interface and dashboard, UI/UX and prototype), and *Nomade*, a tourism and travel platform built during DEPI (responsive React interfaces and reusable components).
+**Graduation projects:** [*Skeleti-X*](https://github.com/shahdesam970/Skeletix), an AI-powered bone fracture detection system (React.js and Tailwind CSS interface and dashboard, UI/UX and prototype), and [*Nomade*](https://github.com/shahdesam970/DEPI-Graduation-Project), a tourism and travel platform built during DEPI (responsive React interfaces and reusable components).
 
 ## 🎓 Background
 
