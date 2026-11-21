@@ -13,7 +13,7 @@
 
 ## 🛠️ Skills
 
-| | |
+| Area | Tools |
 |---|---|
 | **Front-end** | HTML5, CSS3, JavaScript, React.js, React Router, Tailwind CSS, Bootstrap |
 | **Back-end basics** | PHP, Laravel, Node.js, Express.js |
